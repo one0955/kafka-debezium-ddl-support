@@ -1,0 +1,93 @@
+
+b	java:S112r"FDefine and throw a dedicated exception instead of using a generic one.(Ï‰˜í8áÛœİÜ1
+M
+java:S3740â"/Provide the parametrized type for this generic.(¥ÓÚÂ8âÛœİÜ1
+k
+java:S1192è"HDefine a constant instead of duplicating this literal "SQL: {}" 3 times.(Æ·„şÿÿÿÿ8ãÛœİÜ1
+{	java:S135¶"YReduce the total number of break and continue statements in this loop to use at most one.(ó³‡õùÿÿÿÿ8äÛœİÜ1
+B
+java:S2629Ş"$Invoke method(s) only conditionally.(û¯­8æÛœİÜ1
+G
+java:S2629á"$Invoke method(s) only conditionally.(—æºöıÿÿÿÿ8æÛœİÜ1
+B
+java:S2629õ"$Invoke method(s) only conditionally.(÷‘³¬8æÛœİÜ1
+G
+java:S2629ø"$Invoke method(s) only conditionally.(èÿ‹îûÿÿÿÿ8æÛœİÜ1
+B
+java:S2629’"$Invoke method(s) only conditionally.(‰ºŞÉ8æÛœİÜ1
+K
+java:S5411¨"(Use a primitive boolean expression here.(ŸĞŠ‚ùÿÿÿÿ8æÛœİÜ1
+
+java:S3008M"eRename this field "KAFKA_CONNECTOR_STATUS_URI" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘õ–-8ŸİœİÜ1
+Y
+java:S3010["7Remove this assignment of "KAFKA_CONNECTOR_STATUS_URI".(×»Éğøÿÿÿÿ8£İœİÜ1
+G	java:S106i"+Replace this use of System.out by a logger.(ÆÀûı8¤İœİÜ1
+X
+java:S2696t"6Make the enclosing method "static" or remove this set.(¥ìÊÀøÿÿÿÿ8¦İœİÜ1
+
+java:S2142Š"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ñ“Š±üÿÿÿÿ8¦İœİÜ1
+p
+java:S3776—"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ğìÀ»8´İœİÜ1
+M	java:S106±"+Replace this use of System.out by a logger.(¿àÈ­øÿÿÿÿ8¶İœİÜ1
+k	java:S100Ó"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßãé§8¸İœİÜ1
+^	java:S125×"<This block of commented-out lines of code should be removed.(¯Æ¹şÿÿÿÿÿ8‚ÕŞİÜ1
+M	java:S106á"+Replace this use of System.out by a logger.(ú¦Øışÿÿÿÿ8»İœİÜ1
+W
+java:S1874â"9Remove this use of "createNativeQuery"; it is deprecated.(¥ÓÚÂ8¼İœİÜ1
+M	java:S106í"+Replace this use of System.out by a logger.(ğ‡¤ãüÿÿÿÿ8½İœİÜ1
+H
+java:S1659ø"%Declare "version" on a separate line.(öŒıÇûÿÿÿÿ8¾İœİÜ1
+k
+java:S1871ˆ"MThis branch's code block is the same as the block for the branch on line 262.(§¼Éç8¿İœİÜ1
+^
+java:S1126¡"AReplace this if-then-else statement by a single return statement.(ŞÌøU8ÁİœİÜ1
+p
+java:S3776®"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(šœÓ8ÁİœİÜ1
+j
+java:S1854±"GRemove this useless assignment to local variable "deleteBufferByTable".(¥øôøÿÿÿÿÿ8ÁİœİÜ1
+e
+java:S1854°"GRemove this useless assignment to local variable "updateBufferByTable".(õ«–Ö8ÁİœİÜ1
+9
+java:S3626Ö"Remove this redundant jump.(ÉŠ©ƒ8ÁİœİÜ1
+V
+java:S1481°"8Remove this unused "updateBufferByTable" local variable.(õ«–Ö8ÂİœİÜ1
+[
+java:S1481±"8Remove this unused "deleteBufferByTable" local variable.(¥øôøÿÿÿÿÿ8ÂİœİÜ1
+]
+java:S6213¶":Rename this variable to not match a restricted identifier.(ó³‡õùÿÿÿÿ8ÂİœİÜ1
+]
+java:S6213ä":Rename this variable to not match a restricted identifier.(„ÂÀıÿÿÿÿÿ8ÄİœİÜ1
+]
+java:S6213ì":Rename this variable to not match a restricted identifier.(ëœö®øÿÿÿÿ8ÅİœİÜ1
+X
+java:S6213ò":Rename this variable to not match a restricted identifier.(–ó·Ü8ÆİœİÜ1
+]
+java:S6213¡":Rename this variable to not match a restricted identifier.(¡¯ìöıÿÿÿÿ8ÊİœİÜ1
+{
+java:S2139Â"XEither log this exception and handle it, or rethrow it with some contextual information.(şÁİÖıÿÿÿÿ8ÍİœİÜ1
+{
+java:S2139Î"XEither log this exception and handle it, or rethrow it with some contextual information.(şÁİÖıÿÿÿÿ8ÍİœİÜ1
+V
+java:S1611Ö"8Remove the parentheses around the "connection" parameter(ÊÚŸ8ÎİœİÜ1
+V
+java:S1611Ú"8Remove the parentheses around the "connection" parameter(½¢¡8ÎİœİÜ1
+X
+java:S6213İ":Rename this variable to not match a restricted identifier.(ˆÌö„8ÏİœİÜ1
+X
+java:S6213ô":Rename this variable to not match a restricted identifier.(˜Ìú¢8ÑİœİÜ1
+U
+java:S1135ƒ"2Complete the task associated to this TODO comment.(•»Ş¬ûÿÿÿÿ8ÒİœİÜ1
+]
+java:S6213¥":Rename this variable to not match a restricted identifier.(•Ë„½ÿÿÿÿÿ8ÕİœİÜ1
+Œ
+java:S1130»"nRemove the declaration of thrown exception 'java.sql.SQLException', as it cannot be thrown from method's body.(şš›8×İœİÜ1
+P
+java:S1144ä"-Remove this unused private "validate" method.(„ÂÀıÿÿÿÿÿ8ØİœİÜ1
+\
+java:S1144ò">Remove this unused private "buildRecordSinkDescriptor" method.(–ó·Ü8ØİœİÜ1
+N
+java:S1144„"1Remove this unused private "flushBuffers" method.(ºÑÛ8ØİœİÜ1
+R
+java:S1144¡"/Remove this unused private "getTableId" method.(¡¯ìöıÿÿÿÿ8ØİœİÜ1
+P
+java:S1144»"2Remove this unused private "writeTruncate" method.(şš›8ØİœİÜ1

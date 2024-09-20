@@ -1,0 +1,68 @@
+
+f
+java:S1192’"JDefine a constant instead of duplicating this literal " NOT NULL" 3 times.(Ş½şşÿÿÿÿ
+K
+java:S1066‚"/Merge this if statement with the enclosing one.(Ï•’­ıÿÿÿÿ
+?
+java:S2629o"$Invoke method(s) only conditionally.(×û¥úÿÿÿÿ
+;
+java:S2629Ã"$Invoke method(s) only conditionally.(Î€íÄ
+V
+java:S1117j"@Rename "jdbcTimeZone" which hides the field declared at line 97.(²ÀÍË
+G
+java:S1481½"0Remove this unused "catalogName" local variable.(ÅøÚ
+K
+java:S1481¾"/Remove this unused "schemaName" local variable.(÷‚Ìèüÿÿÿÿ
+P
+java:S1481¿"4Remove this unused "columnTableName" local variable.(Ï¤§øÿÿÿÿ
+V
+java:S6213ã":Rename this variable to not match a restricted identifier.(Ó¿ÜÆıÿÿÿÿ
+Q
+java:S6213€":Rename this variable to not match a restricted identifier.(é™µ¶
+I
+java:S1611‡"2Remove the parentheses around the "name" parameter(‡úÁí
+I
+java:S1611"2Remove the parentheses around the "name" parameter(ÍŒÒ¥
+Q
+java:S6213Ã":Rename this variable to not match a restricted identifier.(ÃÒØ“
+N
+java:S1611É"2Remove the parentheses around the "name" parameter(©‹¬úÿÿÿÿ
+V
+java:S6213Û":Rename this variable to not match a restricted identifier.(Š‚„îùÿÿÿÿ
+N
+java:S1611â"2Remove the parentheses around the "name" parameter(ß¥ª¹şÿÿÿÿ
+I
+java:S1611æ"2Remove the parentheses around the "name" parameter(İ‚‘É
+V
+java:S6213î":Rename this variable to not match a restricted identifier.(€ó…ûÿÿÿÿ
+V
+java:S6213ó":Rename this variable to not match a restricted identifier.(½áê·ûÿÿÿÿ
+I
+java:S1611ø"2Remove the parentheses around the "name" parameter(Ğ¸¬î
+N
+java:S1611ü"2Remove the parentheses around the "name" parameter(‘‘­îşÿÿÿÿ
+Q
+java:S6213ƒ":Rename this variable to not match a restricted identifier.(½×â
+N
+java:S1611Š"2Remove the parentheses around the "name" parameter(‘‘­îşÿÿÿÿ
+T
+java:S1611¸"8Remove the parentheses around the "connection" parameter(Ğùõıÿÿÿÿ
+N
+java:S1135Ó"2Complete the task associated to this TODO comment.(ş¨„Éûÿÿÿÿ
+R	java:S125˜"<This block of commented-out lines of code should be removed.(¶ÕÃ‘
+V
+java:S6213Ÿ":Rename this variable to not match a restricted identifier.(Å¡‰áşÿÿÿÿ
+V
+java:S6213±":Rename this variable to not match a restricted identifier.(š“ä·úÿÿÿÿ
+V
+java:S6213½":Rename this variable to not match a restricted identifier.(¿›çøÿÿÿÿ
+Q
+java:S6213Á":Rename this variable to not match a restricted identifier.(ÍÊı
+V
+java:S6213Î":Rename this variable to not match a restricted identifier.(¥²ÁÄûÿÿÿÿ
+Q
+java:S6213Ó":Rename this variable to not match a restricted identifier.(ŠÁ
+V
+java:S6213ÿ":Rename this variable to not match a restricted identifier.(³—Ÿµøÿÿÿÿ
+L
+java:S1068`"1Remove this unused "typeCoercions" private field.(®ÒŸ“úÿÿÿÿ

@@ -1,0 +1,63 @@
+
+k
+java:S1192¨"HDefine a constant instead of duplicating this literal "SQL: {}" 3 times.(Æ·„şÿÿÿÿ8Ğ‚ëØÜ1
+{	java:S135«"YReduce the total number of break and continue statements in this loop to use at most one.(ó³‡õùÿÿÿÿ8Ñ‚ëØÜ1
+B
+java:S2629"$Invoke method(s) only conditionally.(û¯­8Ô‚ëØÜ1
+G
+java:S2629¡"$Invoke method(s) only conditionally.(—æºöıÿÿÿÿ8Ô‚ëØÜ1
+B
+java:S2629µ"$Invoke method(s) only conditionally.(÷‘³¬8Ô‚ëØÜ1
+G
+java:S2629¸"$Invoke method(s) only conditionally.(èÿ‹îûÿÿÿÿ8Ô‚ëØÜ1
+B
+java:S2629Ò"$Invoke method(s) only conditionally.(‰ºŞÉ8Ô‚ëØÜ1
+G	java:S106Y"+Replace this use of System.out by a logger.(ÆÀûı8Ö„ëØÜ1
+L	java:S106d"+Replace this use of System.out by a logger.(ğ‡¤ãüÿÿÿÿ8×„ëØÜ1
+G
+java:S1659o"%Declare "version" on a separate line.(öŒıÇûÿÿÿÿ8Ø„ëØÜ1
+M	java:S106Š"+Replace this use of System.out by a logger.(ÁšÍ’ùÿÿÿÿ8Ú„ëØÜ1
+p
+java:S3776•"RRefactor this method to reduce its Cognitive Complexity from 49 to the 15 allowed.(šœÓ8Û„ëØÜ1
+M	java:S106£"+Replace this use of System.out by a logger.(õ¨Åúüÿÿÿÿ8İ„ëØÜ1
+]
+java:S6213«":Rename this variable to not match a restricted identifier.(ó³‡õùÿÿÿÿ8Ş„ëØÜ1
+M	java:S106¹"+Replace this use of System.out by a logger.(ÜÉŒ›üÿÿÿÿ8ß„ëØÜ1
+M	java:S106Ğ"+Replace this use of System.out by a logger.(¹ûæ­şÿÿÿÿ8á„ëØÜ1
+M	java:S106Û"+Replace this use of System.out by a logger.(ÜÉŒ›üÿÿÿÿ8â„ëØÜ1
+^	java:S125õ"<This block of commented-out lines of code should be removed.(‡—üùşÿÿÿÿ8ä„ëØÜ1
+Y	java:S125„"<This block of commented-out lines of code should be removed.(™ÕÏ‚8å„ëØÜ1
+]
+java:S6213¤":Rename this variable to not match a restricted identifier.(„ÂÀıÿÿÿÿÿ8è„ëØÜ1
+]
+java:S6213¬":Rename this variable to not match a restricted identifier.(ëœö®øÿÿÿÿ8é„ëØÜ1
+X
+java:S6213²":Rename this variable to not match a restricted identifier.(–ó·Ü8ê„ëØÜ1
+]
+java:S6213á":Rename this variable to not match a restricted identifier.(¡¯ìöıÿÿÿÿ8ï„ëØÜ1
+{
+java:S2139‚"XEither log this exception and handle it, or rethrow it with some contextual information.(şÁİÖıÿÿÿÿ8ò„ëØÜ1
+{
+java:S2139"XEither log this exception and handle it, or rethrow it with some contextual information.(şÁİÖıÿÿÿÿ8ò„ëØÜ1
+V
+java:S1611–"8Remove the parentheses around the "connection" parameter(ÊÚŸ8ó„ëØÜ1
+V
+java:S1611š"8Remove the parentheses around the "connection" parameter(½¢¡8ô„ëØÜ1
+X
+java:S6213":Rename this variable to not match a restricted identifier.(ˆÌö„8õ„ëØÜ1
+X
+java:S6213´":Rename this variable to not match a restricted identifier.(˜Ìú¢8÷„ëØÜ1
+U
+java:S1135Ã"2Complete the task associated to this TODO comment.(•»Ş¬ûÿÿÿÿ8ù„ëØÜ1
+]
+java:S6213å":Rename this variable to not match a restricted identifier.(•Ë„½ÿÿÿÿÿ8ü„ëØÜ1
+Œ
+java:S1130û"nRemove the declaration of thrown exception 'java.sql.SQLException', as it cannot be thrown from method's body.(şš›8ş„ëØÜ1
+P
+java:S1144¤"-Remove this unused private "validate" method.(„ÂÀıÿÿÿÿÿ8ÿ„ëØÜ1
+d
+java:S1144ö"FRemove this unused private "checkAndApplyTableChangesIfNeeded" method.(µÃ¾â8ÿ„ëØÜ1
+P
+java:S1144û"2Remove this unused private "writeTruncate" method.(şš›8ÿ„ëØÜ1
+ä
+java:S6541•"ÅA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 95 to 64, Complexity from 20 to 14, Nesting Level from 5 to 2, Number of Variables from 18 to 6.(šœÓ8…ëØÜ1

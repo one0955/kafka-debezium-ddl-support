@@ -1,0 +1,30 @@
+
+r
+java:S1104Ì"VMake ALL_FIELDS a static final constant or non-public and provide accessors if needed.(‡¹Ó’üÿÿÿÿ
+L
+java:S1444Ì"0Make this "public static ALL_FIELDS" field final(‡¹Ó’üÿÿÿÿ
+q
+java:S3008Ì"URename this field "ALL_FIELDS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡¹Ó’üÿÿÿÿ
+W
+java:S3416)":Update this logger to use "JdbcSinkConnectorConfig.class".(êû’¦8²…‹ÃÙ1
+M
+java:S1135H"2Complete the task associated to this TODO comment.(È°ûÙúÿÿÿÿ
+R	java:S125è"<This block of commented-out lines of code should be removed.(î©þÚ
+I
+java:S1135Ý"2Complete the task associated to this TODO comment.(ÒºµÃ
+I
+java:S1135ß"2Complete the task associated to this TODO comment.(Íä¯Ö
+N
+java:S1135á"2Complete the task associated to this TODO comment.(ÙŒÞìúÿÿÿÿ
+N
+java:S1135ã"2Complete the task associated to this TODO comment.(Ë§½þÿÿÿÿ
+I
+java:S1135è"2Complete the task associated to this TODO comment.(î©þÚ
+W	java:S125Ë"<This block of commented-out lines of code should be removed.(Âè–©ûÿÿÿÿ
+W	java:S125ì"<This block of commented-out lines of code should be removed.(Õžš ûÿÿÿÿ
+W	java:S125€"<This block of commented-out lines of code should be removed.(‰Í–çûÿÿÿÿ
+C
+java:S1602”",Remove useless curly braces around statement(Ê˜ÛÌ
+W	java:S125Ñ"<This block of commented-out lines of code should be removed.(¿ÎùŒúÿÿÿÿ
+g
+java:S1612ý"IReplace this lambda with method reference 'hibernateConfig::setProperty'.(ôðûê8Ý†‹ÃÙ1

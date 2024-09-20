@@ -1,0 +1,65 @@
+
+Q
+java:S3740,"/Provide the parametrized type for this generic.(ƒ¬²÷ÿÿÿÿÿ8ÏÆôìÙ1
+Q
+java:S3740="/Provide the parametrized type for this generic.(ƒ¬²÷ÿÿÿÿÿ8ĞÆôìÙ1
+L
+java:S3740U"/Provide the parametrized type for this generic.(“Õ¶Ô8ĞÆôìÙ1
+Q
+java:S3740\"/Provide the parametrized type for this generic.(×šû«ùÿÿÿÿ8ĞÆôìÙ1
+L
+java:S3740g"/Provide the parametrized type for this generic.(ß ş8ĞÆôìÙ1
+Q
+java:S3740k"/Provide the parametrized type for this generic.(×šû«ùÿÿÿÿ8ĞÆôìÙ1
+Q
+java:S3740{"/Provide the parametrized type for this generic.(ù§ÑÑşÿÿÿÿ8ĞÆôìÙ1
+R
+java:S3740„"/Provide the parametrized type for this generic.(Ü‡üæøÿÿÿÿ8ĞÆôìÙ1
+R
+java:S3740¿"/Provide the parametrized type for this generic.(Şûÿıÿÿÿÿ8ĞÆôìÙ1
+R
+java:S3740Æ"/Provide the parametrized type for this generic.(×šû«ùÿÿÿÿ8ĞÆôìÙ1
+R
+java:S3740Ô"/Provide the parametrized type for this generic.(ù§ÑÑşÿÿÿÿ8ĞÆôìÙ1
+R
+java:S3740ß"/Provide the parametrized type for this generic.(ù§ÑÑşÿÿÿÿ8ÌÈ·®Ú1
+j
+java:S1192w"MDefine a constant instead of duplicating this literal "INSERT INTO " 3 times.(´™ãµ8ÑÆôìÙ1
+l
+java:S1192U"ODefine a constant instead of duplicating this literal "SELECT * FROM " 4 times.(“Õ¶Ô8ÑÆôìÙ1
+m	java:S117I"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡±„Ø8ÒÆôìÙ1
+s	java:S117˜"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·Á«Áüÿÿÿÿ8ÒÆôìÙ1
+€
+java:S1488L"^Immediately return this expression instead of assigning it to the temporary variable "dbname".(Å‚‰ôùÿÿÿÿ8ÒÆôìÙ1
+v	java:S116"ZRename this field "DdlVersionTable" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ†ïï8÷ÆôìÙ1
+{	java:S116"ZRename this field "TaskStatusTable" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æœ İıÿÿÿÿ8÷ÆôìÙ1
+j	java:S100("NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶”çÔ8„ÇôìÙ1
+[
+java:S1874,"9Remove this use of "createNativeQuery"; it is deprecated.(ƒ¬²÷ÿÿÿÿÿ8…ÇôìÙ1
+[
+java:S18741"9Remove this use of "createNativeQuery"; it is deprecated.(º¡Äîüÿÿÿÿ8†ÇôìÙ1
+[
+java:S1874="9Remove this use of "createNativeQuery"; it is deprecated.(ƒ¬²÷ÿÿÿÿÿ8‰ÇôìÙ1
+G	java:S106P"+Replace this use of System.out by a logger.(«ıîŠ8ˆÇôìÙ1
+V
+java:S1874U"9Remove this use of "createNativeQuery"; it is deprecated.(“Õ¶Ô8ŠÇôìÙ1
+V
+java:S1874g"9Remove this use of "createNativeQuery"; it is deprecated.(ß ş8‹ÇôìÙ1
+]	java:S125t"<This block of commented-out lines of code should be removed.(üÌı•úÿÿÿÿ8‹ÇôìÙ1
+[
+java:S1874{"9Remove this use of "createNativeQuery"; it is deprecated.(ù§ÑÑşÿÿÿÿ8ÇôìÙ1
+^	java:S125€"<This block of commented-out lines of code should be removed.(öÀ·ÿÿÿÿÿ8ŒÇôìÙ1
+k	java:S100ƒ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ö—Øû8ŒÇôìÙ1
+\
+java:S1874„"9Remove this use of "createNativeQuery"; it is deprecated.(Ü‡üæøÿÿÿÿ8—ÇôìÙ1
+_
+java:S1126‘"AReplace this if-then-else statement by a single return statement.(É‰º…8‹Ş­‡Ú1
+Q
+java:S2864›"4Iterate over the "entrySet" instead of the "keySet".(™ŒÏ8ÇôìÙ1
+H	java:S106µ"+Replace this use of System.out by a logger.(ò­µ¯8–ÇôìÙ1
+\
+java:S1874¿"9Remove this use of "createNativeQuery"; it is deprecated.(Şûÿıÿÿÿÿ8™ÇôìÙ1
+\
+java:S1874Ô"9Remove this use of "createNativeQuery"; it is deprecated.(ù§ÑÑşÿÿÿÿ8šÇôìÙ1
+\
+java:S1874ß"9Remove this use of "createNativeQuery"; it is deprecated.(ù§ÑÑşÿÿÿÿ8ëÈ·®Ú1

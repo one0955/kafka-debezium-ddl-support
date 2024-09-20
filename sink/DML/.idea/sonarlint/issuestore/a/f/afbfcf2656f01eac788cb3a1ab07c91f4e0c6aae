@@ -1,0 +1,68 @@
+
+m
+java:S1192’"JDefine a constant instead of duplicating this literal " NOT NULL" 3 times.(Ş½şşÿÿÿÿ8Úçé×1
+R
+java:S1066‚"/Merge this if statement with the enclosing one.(Ï•’­ıÿÿÿÿ8ŸÚçé×1
+F
+java:S2629o"$Invoke method(s) only conditionally.(×û¥úÿÿÿÿ8£Úçé×1
+B
+java:S2629Ã"$Invoke method(s) only conditionally.(Î€íÄ8£Úçé×1
+]
+java:S1117j"@Rename "jdbcTimeZone" which hides the field declared at line 97.(²ÀÍË8Ïİçé×1
+N
+java:S1481½"0Remove this unused "catalogName" local variable.(ÅøÚ8åİçé×1
+R
+java:S1481¾"/Remove this unused "schemaName" local variable.(÷‚Ìèüÿÿÿÿ8åİçé×1
+W
+java:S1481¿"4Remove this unused "columnTableName" local variable.(Ï¤§øÿÿÿÿ8æİçé×1
+]
+java:S6213ã":Rename this variable to not match a restricted identifier.(Ó¿ÜÆıÿÿÿÿ8êİçé×1
+X
+java:S6213€":Rename this variable to not match a restricted identifier.(é™µ¶8ñİçé×1
+P
+java:S1611‡"2Remove the parentheses around the "name" parameter(‡úÁí8óİçé×1
+P
+java:S1611"2Remove the parentheses around the "name" parameter(ÍŒÒ¥8öİçé×1
+X
+java:S6213Ã":Rename this variable to not match a restricted identifier.(ÃÒØ“8ûİçé×1
+U
+java:S1611É"2Remove the parentheses around the "name" parameter(©‹¬úÿÿÿÿ8ıİçé×1
+]
+java:S6213Û":Rename this variable to not match a restricted identifier.(Š‚„îùÿÿÿÿ8‚Şçé×1
+U
+java:S1611â"2Remove the parentheses around the "name" parameter(ß¥ª¹şÿÿÿÿ8„Şçé×1
+P
+java:S1611æ"2Remove the parentheses around the "name" parameter(İ‚‘É8…Şçé×1
+]
+java:S6213î":Rename this variable to not match a restricted identifier.(€ó…ûÿÿÿÿ8†Şçé×1
+]
+java:S6213ó":Rename this variable to not match a restricted identifier.(½áê·ûÿÿÿÿ8‡Şçé×1
+P
+java:S1611ø"2Remove the parentheses around the "name" parameter(Ğ¸¬î8‰Şçé×1
+U
+java:S1611ü"2Remove the parentheses around the "name" parameter(‘‘­îşÿÿÿÿ8‹Şçé×1
+X
+java:S6213ƒ":Rename this variable to not match a restricted identifier.(½×â8ŒŞçé×1
+U
+java:S1611Š"2Remove the parentheses around the "name" parameter(‘‘­îşÿÿÿÿ8Şçé×1
+[
+java:S1611¸"8Remove the parentheses around the "connection" parameter(Ğùõıÿÿÿÿ8£Şçé×1
+U
+java:S1135Ó"2Complete the task associated to this TODO comment.(ş¨„Éûÿÿÿÿ8¥Şçé×1
+Y	java:S125˜"<This block of commented-out lines of code should be removed.(¶ÕÃ‘8­Şçé×1
+]
+java:S6213Ÿ":Rename this variable to not match a restricted identifier.(Å¡‰áşÿÿÿÿ8®Şçé×1
+]
+java:S6213±":Rename this variable to not match a restricted identifier.(š“ä·úÿÿÿÿ8°Şçé×1
+]
+java:S6213½":Rename this variable to not match a restricted identifier.(¿›çøÿÿÿÿ8±Şçé×1
+X
+java:S6213Á":Rename this variable to not match a restricted identifier.(ÍÊı8²Şçé×1
+]
+java:S6213Î":Rename this variable to not match a restricted identifier.(¥²ÁÄûÿÿÿÿ8µŞçé×1
+X
+java:S6213Ó":Rename this variable to not match a restricted identifier.(ŠÁ8¶Şçé×1
+]
+java:S6213ÿ":Rename this variable to not match a restricted identifier.(³—Ÿµøÿÿÿÿ8»Şçé×1
+S
+java:S1068`"1Remove this unused "typeCoercions" private field.(®ÒŸ“úÿÿÿÿ8¿Şçé×1

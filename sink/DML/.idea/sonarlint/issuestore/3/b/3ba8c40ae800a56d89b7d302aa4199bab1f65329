@@ -1,0 +1,16 @@
+
+k
+java:S3824Ó"HReplace this "Map.containsKey()" with a call to "Map.computeIfAbsent()".(ïÙ’Šüÿÿÿÿ8èÈÖé×1
+L
+java:S2093?"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8õÈÖé×1
+G	java:S106`"+Replace this use of System.out by a logger.(ı‘’Ü8»ÙÂŒØ1
+L	java:S106a"+Replace this use of System.out by a logger.(íƒ‹×ùÿÿÿÿ8»ÙÂŒØ1
+L	java:S106b"+Replace this use of System.out by a logger.(»¹è‚ûÿÿÿÿ8»ÙÂŒØ1
+B
+java:S1181t"%Catch Exception instead of Throwable.(û«Ì­8ÈôìÙ1
+V
+java:S6213²":Rename this variable to not match a restricted identifier.(ÿªÄÚúÿÿÿÿ
+V
+java:S6213Ë":Rename this variable to not match a restricted identifier.(ˆÿ³ãûÿÿÿÿ
+Q
+java:S6213Ú":Rename this variable to not match a restricted identifier.(Ä‹ş
